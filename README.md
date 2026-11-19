@@ -16,7 +16,7 @@ Unzip the website and open `index.html`. It needs no server, libraries or intern
 
 ## Where to find this project on GitHub
 - **Repository:** https://github.com/maheshmalhi112/Kashmir_Tourism_Website
-- **Live website (GitHub Pages):** https://maheshmalhi112.github.io/Kashmir_Tourism_Website/website/
+- **Live website (GitHub Pages):** https://maheshmalhi112.github.io/Kashmir_Tourism_Website/Discover_Kashmir_Website/
 - **Report (PDF):** open Kashmir_Tourism_Documentation.pdf file.
 
 To get the project, open the repository link above and either click **Code → Download ZIP**, or clone it:
