@@ -7,8 +7,8 @@ Authors: Mahesh Kumar, Krunal Pandya, Shrey. Professor: Ing. Petr Benda, Ph.D. A
 | File | Description |
 |---|---|
 | `Kashmir_Tourism_Documentation.pdf` | Part 1 report (Word, automatic table of contents; press F9 to refresh page numbers) |
-| `Discover_Kashmir_Website.zip` | The five-page website (HTML, CSS, JavaScript, SVG) |
-| `Kashmir_Project_Diagrams.zip` | Card sorting, sitemap, navigation map, two storyboards, 15 wireframes, 3 use cases (PNG and SVG) |
+| `Discover_Kashmir_Website` | The five-page website (HTML, CSS, JavaScript, SVG) |
+| `Kashmir_Project_Diagrams` | Card sorting, sitemap, navigation map, two storyboards, 15 wireframes, 3 use cases (PNG and SVG) |
 
 ## Website
 Five pages: `index.html`, `destinations.html`, `culture.html`, `adventure.html`, `plan.html`. Contact & Support is a section of Plan Your Trip.
